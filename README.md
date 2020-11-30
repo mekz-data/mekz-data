@@ -2,7 +2,7 @@
 
 Welcome to my Github!
 
-I am a Data Scientist currently seeking employment. If you think I would be a good fit for your company or you just want to talk Data Science, please reach out to me at hunterlonon(at)gmail.com
+I am a Data Scientist currently working in the mortgage industry. Feel free to reach out to me at hunterlonon(at)gmail.com
 
 [**Resume**](https://github.com/Huntsworth7/Resumes/blob/main/Hunter%20Lonon%20-%20Resume.pdf)
 
