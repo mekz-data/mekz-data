@@ -1,32 +1,42 @@
-
-<!-- <p align="center">
-<img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Description" width="400"> </p> -->
+<!-- put cool banner here -->
 
 
 # <p align="center">Hi, I'm Hunter 👋. I am a Data Scientist.</p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/hunter-lonon/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.datahunting.net">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  </a>
+  <a href="mailto:hunterlonon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.hackerrank.com/profile/hunterlonon">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+  </a>
+  <a href="https://leetcode.com/u/Mekz/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-lonon/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hunterlonon)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Mekz/)
+### <p align="center">Data Scientist driving multimillion dollar impacts</p>
+
+Currently building powerful AI models for risk management in the financial industry and flirting with the idea of building a model for college football betting. 
 
 
-<!--Currently building powerful AI models with XGboost, Nueral Networks, and Large Language Models (LLMs) to provide value in business and sports . 
-
-
-Click [here](example.com) to explore my professional work. <!-- Replace with your actual portfolio link --> -->
-
+<p align ="center"> <a href="http://www.datahunting.net">Click here to explore my professional work</a></p> 
 
 ## Projects
 
-<!--
-Here's a selection of recent open-source projects I've contributed to:
-- **[Managed a user adoption analysis project, determining what drives user engagement](https://github.com/your-repo-link)**.
-- **[A microservices-based platform for dynamic, real-time data participation and analysis](https://github.com/your-repo-link)**.
-- **[Developed an NLP-based chatbot to interact with users and provide instant responses](https://github.com/your-repo-link)**.
-- **[Created a data consumption forecasting project using LSTM and GRU](https://github.com/your-repo-link)**.
-- **[A data pipeline analyzing LinkedIn job postings using Apache Kafka, Spark, deployed on AWS](https://github.com/your-repo-link)**.
--->
+Here's a selection of projects that I've worked on:
+- **[Developed credit marketing strategies based on Equifax data](https://github.com/mekz-data/equifax)**.
+- **[Accurately predicted loan defaults based on attributes from Lending Club user data](https://github.com/mekz-data/LendingClubClassification)**.
+- **[Developed an optimal stock portfolio based on the S&P 500](https://github.com/mekz-data/portfolio_optimization)**.
+- **[Built a visualization engine to more easily discover new pharmaceuticals](https://github.com/mekz-data/drug_discovery)**.
+- **[Created a Neural Network that could diagnose breast cancer based on slide tissue images](https://github.com/mekz-data/Breast-Cancer)**.
+
 
 ## Languages and Tools:
 
